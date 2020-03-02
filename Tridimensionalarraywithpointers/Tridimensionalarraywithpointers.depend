@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582775103 source:c:\users\yassirprograma\desktop\fdp\pruebas\2602020\tridimensionalarraywithpointers\main.c
+	<stdio.h>
+	<stdlib.h>
+
