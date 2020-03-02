@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582763648 source:c:\users\yassirprograma\desktop\fdp\pruebas\2602020\navegacionarrunidimensional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582766339 source:c:\users\yassirprograma\desktop\fdp\pruebas\2602020\cadenaspuntgraph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

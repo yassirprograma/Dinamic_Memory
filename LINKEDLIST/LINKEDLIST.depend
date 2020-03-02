@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1582996199 source:c:\users\yassirprograma\desktop\fdp\pruebas\2602020\linkedlist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<winbgim.h>
+
